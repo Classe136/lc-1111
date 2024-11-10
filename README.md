@@ -1,1 +1,1 @@
-# lc-1111
+# lc-1111 - Javascript Timing Function
